@@ -1,6 +1,6 @@
 ---
 go_mirror: https://go.dev/dl
-go_ver: '1.26.4'
+go_ver: '1.27.1'
 go_arch_map:
   386: 386
   aarch64: arm64
