@@ -2776,7 +2776,6 @@ go_checksums:
     windows-amd64: sha256:8d4ed9a270b33df7a6d3ff3a5316e103e0042fcc4f0c9a80e40378700bab6794
     # https://go.dev/dl/go1.25.8.windows-arm64.zip
     windows-arm64: sha256:0ffaef4a9617a8819294b5f52aefca1415dce644a70f5ad155676293ab052a31
-
   '1.25.9':
     # https://go.dev/dl/go1.25.9.darwin-amd64.tar.gz
     darwin-amd64: sha256:92cb78fba4796e218c1accb0ea0a214ef2094c382049a244ad6505505d015fbe
